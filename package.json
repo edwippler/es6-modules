@@ -1,0 +1,16 @@
+{
+  "name": "modules-es6",
+  "version": "1.0.0",
+  "description": "Intro to ES6 modules",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "modules",
+    "classes"
+  ],
+  "author": "Ed Wippler",
+  "license": "ISC"
+}

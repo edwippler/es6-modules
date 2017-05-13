@@ -1,0 +1,14 @@
+//Module Basics NOTE: needs enviroment including transpiler & module loaders
+exports get hoisted, so log in module1 will load before logs in base.js
+
+// Named Exports
+
+// Classes
+
+// extends && super
+
+// constructor function properties
+
+// Static Members
+
+// new.target
